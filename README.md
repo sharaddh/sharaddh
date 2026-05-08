@@ -1,168 +1,191 @@
-![Header](./i.png)
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=sharadhkr&label=Profile%20Views&color=0e75b6&style=flat">
-<img src="https://img.shields.io/github/followers/sharadhkr?label=Followers&style=social">
+<p align="center">
+  <img src="./i.png" width="100%" />
 </p>
 
+<h1 align="center">Sharad Rathore</h1>
 
-Problem-driven engineering student building **AI systems, IoT devices, and scalable backend platforms**.
-
-Passionate about solving **real-world problems using AI/ML, IoT, and distributed systems**.
-
----
-
-## ⚡ Focus Areas
-
-• Artificial Intelligence & Computer Vision
-• IoT & Embedded Systems
-• Scalable Backend Architecture
-• Real-time Systems & Optimization
-• Problem-Driven Engineering
-
----
-
-## ⚡ Tech Stack
+<h3 align="center">
+Full Stack Developer • Backend Engineer • AI & IoT Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,java,c,react,nodejs,express,mongodb,redis,firebase,flask,git,postman,tensorflow,numpy" />
+Building scalable applications, intelligent systems, and real-world engineering solutions.
 </p>
 
 ---
 
-# 🚀 Projects
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharadhkr&label=Profile%20Views&color=0e75b6&style=flat" />
+  
+  <img src="https://img.shields.io/github/followers/sharadhkr?label=Followers&style=social" />
+</p>
+
+---
+
+# 🚀 About Me
+
+- Full Stack Developer focused on scalable backend systems
+- Building production-grade MERN applications
+- Interested in AI systems, Computer Vision, and IoT
+- Passionate about performance optimization and system design
+- Exploring distributed systems and real-time architectures
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,python,java,c,react,nodejs,express,mongodb,redis,firebase,flask,git,github,docker,postman,vscode,tensorflow,numpy&perline=8" />
+
+</p>
+
+---
+
+# 🛠 Core Expertise
+
+```txt
+Backend Development
+REST API Design
+Authentication & RBAC
+Redis Caching
+Database Optimization
+Scalable System Design
+MERN Stack Development
+Computer Vision Systems
+IoT & Embedded Systems
+```
+
+---
+
+# 🚀 Featured Projects
 
 ## 🛒 Starkk.shop — Scalable MERN E-Commerce Platform
 
-<table>
-<tr>
-<td width="60%">
+Production-level scalable e-commerce platform built using MERN stack.
 
-Production-level **scalable e-commerce system** built using MERN stack.
+### ✨ Highlights
 
-### ✨ Key Highlights
-
-• Redis caching for optimized backend performance
-• Elasticsearch-powered product search & filtering
-• Secure authentication with OTP and payment integration
-• Dynamic homepage rendering via backend configuration
-• Optimized API architecture to reduce redundant requests
+- Redis caching for backend optimization
+- Elasticsearch-powered search & filtering
+- Authentication, cart, wishlist & payment workflows
+- Dynamic backend-driven homepage rendering
+- Optimized API architecture and caching strategies
 
 ### 🧰 Tech Stack
 
-`Express.js` `React` `Node.js` `Redis` `Elasticsearch` `Razorpay` `Cloudinary`
+`MongoDB` `Express.js` `React.js` `Node.js` `Redis` `Elasticsearch` `Razorpay`
 
-</td>
+<p align="center">
+  <img src="./stark.png" width="85%" />
+</p>
 
-<td width="40%">
+---
 
-<img src="stark.png" width="300"/>
+## 🧩 DragFlow — Drag & Drop UI Builder
 
-</td>
-</tr>
-</table>
+Dynamic drag-and-drop UI builder with backend-driven rendering architecture.
+
+### ✨ Highlights
+
+- Real-time layout customization
+- Reusable component architecture
+- Dynamic JSON-based rendering system
+- Admin-controlled UI management
+
+### 🧰 Tech Stack
+
+`React.js` `Node.js` `MongoDB` `Context API`
 
 ---
 
 ## 🤖 GestureBot — AI Gesture Controlled Robot
 
-<table>
-<tr>
-<td width="60%">
+AI-powered robotic control system using real-time hand gesture recognition.
 
-AI-powered robot controlled using **real-time hand gesture recognition**.
+### ✨ Highlights
 
-### ✨ Features
-
-• Computer vision-based gesture detection
-• Real-time hand tracking using MediaPipe
-• ESP32-based wireless robot control
-• Low-latency gesture-to-action pipeline
+- Computer vision-based gesture tracking
+- MediaPipe hand detection pipeline
+- ESP32 wireless communication
+- Low-latency real-time control system
 
 ### 🧰 Tech Stack
 
 `Python` `OpenCV` `MediaPipe` `ESP32`
 
-</td>
-
-<td width="40%">
-
-<img src="./car.png" width="320"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📌 CreatePin — Visual Pin Board Platform
-
-<table>
-<tr>
-<td width="60%">
-
-Pinterest-style **visual sharing platform with smooth animations and modern UI**.
-
-### ✨ Features
-
-• Pin creation and board management
-• Smooth animations using GSAP & Framer Motion
-• Responsive and interactive UI
-
-### 🧰 Tech Stack
-
-`MongoDB` `Express` `Node.js` `EJS` `Framer Motion` `GSAP`
-
-</td>
-
-<td width="40%">
-
-<img src="pin.png" width="300"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./car.png" width="70%" />
+</p>
 
 ---
 
 ## 🖨 Smart Thermal Printer Device
 
-<table>
-<tr>
-<td width="60%">
+Wireless thermal printing system powered by ESP32.
 
-IoT-based **wireless thermal printing system using ESP32**.
+### ✨ Highlights
 
-### ✨ Features
-
-• Mobile-based print requests via browser
-• ESP32-hosted web server
-• Real-time print job forwarding system
-• Works without driver installation
+- Browser-based mobile printing
+- ESP32-hosted lightweight web server
+- Real-time print forwarding workflow
+- Driver-free local network printing
 
 ### 🧰 Tech Stack
 
-`ESP32` `Embedded Systems` `C` `HTML` `CSS`
+`ESP32` `Embedded C` `HTML` `CSS`
 
-</td>
-
-<td width="40%">
-
-<img src="printer.png" width="300"/>
-
-</td>
-</tr>
-</table>
-
----
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharadhkr&theme=tokyonight">
+  <img src="./printer.png" width="70%" />
 </p>
 
 ---
 
-# ⏱ Coding Activity
+# 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharadhkr&theme=tokyonight">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharadhkr&theme=tokyonight" width="100%" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharadhkr&theme=tokyonight" width="100%" />
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+- Runner-Up — PUCode Hackathon
+- Co-organized AI Odyssey Hackathon (200+ participants)
+- Freelance MERN Stack Developer for startups
+- Built scalable backend systems and AI-integrated applications
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/sharadhkr">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/sharaddh">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:sharadd.rathore@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>"Building systems that solve real-world problems."</i>
 </p>
