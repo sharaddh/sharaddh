@@ -155,9 +155,6 @@ IoT-based **wireless thermal printing system using ESP32**.
 </table>
 
 ---
-
-# 📈 GitHub Stats
-
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharadhkr&theme=tokyonight">
 </p>
