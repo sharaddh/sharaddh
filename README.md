@@ -2,7 +2,7 @@
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=sharadhkr&label=Profile%20Views&color=0e75b6&style=flat">
-<img src="https://img.shields.io/github/followers/sharadhkr?label=Followers&style=social">
+<img src="https://img.shields.io/github/followers/sharaddh?label=Followers&style=social">
 </p>
 
 Problem-driven engineering student building **scalable backend systems, AI-powered applications, and IoT solutions**.
