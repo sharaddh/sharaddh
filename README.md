@@ -5,27 +5,26 @@
 <img src="https://img.shields.io/github/followers/sharadhkr?label=Followers&style=social">
 </p>
 
+Problem-driven engineering student building **scalable backend systems, AI-powered applications, and IoT solutions**.
 
-Problem-driven engineering student building **AI systems, IoT devices, and scalable backend platforms**.
-
-Passionate about solving **real-world problems using AI/ML, IoT, and distributed systems**.
+Passionate about solving **real-world problems using MERN stack, distributed systems, AI/ML, and embedded technologies**.
 
 ---
 
 ## ⚡ Focus Areas
 
-• Artificial Intelligence & Computer Vision
-• IoT & Embedded Systems
-• Scalable Backend Architecture
-• Real-time Systems & Optimization
-• Problem-Driven Engineering
+• Full Stack Development  
+• Backend Architecture & APIs  
+• Artificial Intelligence & Computer Vision  
+• IoT & Embedded Systems  
+• Real-time Systems & Optimization  
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,java,c,react,nodejs,express,mongodb,redis,firebase,flask,git,postman,tensorflow,numpy" />
+<img src="https://skillicons.dev/icons?i=js,python,java,c,react,nodejs,express,mongodb,redis,elasticsearch,firebase,flask,tailwind,materialui,git,github,docker,postman,vscode,tensorflow&perline=10" />
 </p>
 
 ---
@@ -38,25 +37,56 @@ Passionate about solving **real-world problems using AI/ML, IoT, and distributed
 <tr>
 <td width="60%">
 
-Production-level **scalable e-commerce system** built using MERN stack.
+Production-level **scalable e-commerce platform** built using MERN stack.
 
 ### ✨ Key Highlights
 
-• Redis caching for optimized backend performance
-• Elasticsearch-powered product search & filtering
-• Secure authentication with OTP and payment integration
-• Dynamic homepage rendering via backend configuration
-• Optimized API architecture to reduce redundant requests
+• Redis caching for optimized backend performance  
+• Elasticsearch-powered product search & filtering  
+• Secure authentication and payment integration  
+• Dynamic homepage rendering via backend configuration  
+• Optimized API architecture and caching workflows  
 
 ### 🧰 Tech Stack
 
-`Express.js` `React` `Node.js` `Redis` `Elasticsearch` `Razorpay` `Cloudinary`
+`MongoDB` `Express.js` `React.js` `Node.js` `Redis` `Elasticsearch` `Razorpay`
 
 </td>
 
 <td width="40%">
 
 <img src="stark.png" width="300"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 DragFlow — Drag & Drop UI Builder
+
+<table>
+<tr>
+<td width="60%">
+
+Dynamic **drag-and-drop UI builder** with backend-driven rendering architecture.
+
+### ✨ Features
+
+• Real-time layout customization  
+• Reusable component architecture  
+• Dynamic JSON-based rendering system  
+• Backend-controlled UI management  
+
+### 🧰 Tech Stack
+
+`React.js` `Node.js` `MongoDB` `Context API`
+
+</td>
+
+<td width="40%">
+
+<img src="drag.png" width="300"/>
 
 </td>
 </tr>
@@ -74,10 +104,10 @@ AI-powered robot controlled using **real-time hand gesture recognition**.
 
 ### ✨ Features
 
-• Computer vision-based gesture detection
-• Real-time hand tracking using MediaPipe
-• ESP32-based wireless robot control
-• Low-latency gesture-to-action pipeline
+• Computer vision-based gesture detection  
+• Real-time hand tracking using MediaPipe  
+• ESP32-based wireless robot control  
+• Low-latency gesture-to-action pipeline  
 
 ### 🧰 Tech Stack
 
@@ -101,17 +131,17 @@ AI-powered robot controlled using **real-time hand gesture recognition**.
 <tr>
 <td width="60%">
 
-Pinterest-style **visual sharing platform with smooth animations and modern UI**.
+Pinterest-style **visual sharing platform** with modern UI and animations.
 
 ### ✨ Features
 
-• Pin creation and board management
-• Smooth animations using GSAP & Framer Motion
-• Responsive and interactive UI
+• Pin creation and board management  
+• Smooth animations using GSAP & Framer Motion  
+• Responsive and interactive frontend  
 
 ### 🧰 Tech Stack
 
-`MongoDB` `Express` `Node.js` `EJS` `Framer Motion` `GSAP`
+`MongoDB` `Express.js` `Node.js` `EJS` `Framer Motion` `GSAP`
 
 </td>
 
@@ -131,18 +161,18 @@ Pinterest-style **visual sharing platform with smooth animations and modern UI**
 <tr>
 <td width="60%">
 
-IoT-based **wireless thermal printing system using ESP32**.
+IoT-based **wireless thermal printing system** using ESP32.
 
 ### ✨ Features
 
-• Mobile-based print requests via browser
-• ESP32-hosted web server
-• Real-time print job forwarding system
-• Works without driver installation
+• Browser-based mobile print requests  
+• ESP32-hosted lightweight web server  
+• Real-time print forwarding workflow  
+• Driver-free local network printing  
 
 ### 🧰 Tech Stack
 
-`ESP32` `Embedded Systems` `C` `HTML` `CSS`
+`ESP32` `Embedded C` `HTML` `CSS`
 
 </td>
 
@@ -153,6 +183,8 @@ IoT-based **wireless thermal printing system using ESP32**.
 </td>
 </tr>
 </table>
+
+---
 
 # ⏱ Coding Activity
 
