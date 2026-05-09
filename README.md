@@ -1,7 +1,7 @@
 ![Header](./i.png)
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=sharadhkr&label=Profile%20Views&color=0e75b6&style=flat">
+<img src="https://komarev.com/ghpvc/?username=sharaddh&label=Profile%20Views&color=0e75b6&style=flat">
 <img src="https://img.shields.io/github/followers/sharaddh?label=Followers&style=social">
 </p>
 
@@ -189,5 +189,5 @@ IoT-based **wireless thermal printing system** using ESP32.
 # ⏱ Coding Activity
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharadhkr&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharaddh&theme=tokyonight">
 </p>
