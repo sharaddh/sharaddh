@@ -39,7 +39,7 @@ Passionate about solving **real-world problems using MERN stack, distributed sys
 
 Production-level **scalable e-commerce platform** built using MERN stack.
 
-### ✨ Key Highlights
+### Key Highlights
 
 • Redis caching for optimized backend performance  
 • Elasticsearch-powered product search & filtering  
