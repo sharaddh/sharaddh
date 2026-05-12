@@ -178,7 +178,7 @@ IoT-based **wireless thermal printing system** using ESP32.
 
 <td width="40%">
 
-<img src="giphy.gif" width="300"/>
+<img src="printer.png" width="300"/>
 
 </td>
 </tr>
