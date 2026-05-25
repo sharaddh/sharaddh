@@ -24,7 +24,7 @@ Passionate about solving **real-world problems using MERN stack, distributed sys
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,java,c,react,nodejs,express,mongodb,redis,elasticsearch,firebase,flask,tailwind,materialui,git,github,docker,postman,vscode,tensorflow&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,react,nodejs,express,mongodb,mysql,redis,elasticsearch,docker,git,github,postman,vscode,tailwind,materialui,tensorflow,firebase,opencv,arduino&perline=8" />
 </p>
 
 ---
