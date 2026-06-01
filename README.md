@@ -21,14 +21,6 @@ Passionate about solving **real-world problems using MERN stack, distributed sys
 
 ---
 
-## Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,react,nodejs,express,mongodb,mysql,redis,elasticsearch,docker,git,github,postman,vscode,tailwind,materialui,tensorflow,firebase,opencv,arduino&perline=8" />
-</p>
-
----
-
 # 🚀 Projects
 
 ## 🛒 Starkk.shop — Scalable MERN E-Commerce Platform
