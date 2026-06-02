@@ -8,51 +8,93 @@
 Problem-driven engineering student building **scalable backend systems, AI-powered applications, and IoT solutions**.
 Passionate about solving **real-world problems using MERN stack, distributed systems, AI/ML, and embedded technologies**.
 
----# 🚀 Projects
+---
+# 🚀 Projects
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="60%" valign="top">
 
-### 🛒 Starkk.shop
+## 🛒 Starkk.shop
 
-<img src="stark.png" width="500"/>
+Production-level **scalable e-commerce platform** built using MERN stack.
 
-Production-grade MERN e-commerce platform featuring Redis caching, Elasticsearch search, secure payments, dynamic homepage rendering, and highly optimized backend architecture.
+### ✨ Key Highlights
 
-**Tech Stack**
+• Redis caching for optimized backend performance  
+• Elasticsearch-powered product search & filtering  
+• Secure authentication and payment integration  
+• Dynamic homepage rendering via backend configuration  
+• Optimized API architecture and caching workflows  
 
-`MongoDB` `Express.js` `React.js` `Node.js`
-`Redis` `Elasticsearch` `Razorpay`
+### 🧰 Tech Stack
+
+`MongoDB` `Express.js` `React.js`
+`Node.js` `Redis`
+`Elasticsearch` `Razorpay`
 
 </td>
 
-<td align="center" width="50%">
+<td width="40%" align="center">
 
-### 🧩 DragFlow
-
-<img src="dropUi.png" width="500"/>
-
-Dynamic drag-and-drop UI builder with backend-driven rendering, reusable components, and JSON-powered layout management.
-
-**Tech Stack**
-
-`React.js` `Node.js`
-`MongoDB` `Context API`
+<img src="stark.png" width="350"/>
 
 </td>
 </tr>
+</table>
 
+---
+
+<table>
 <tr>
-<td align="center" width="50%">
+<td width="60%" valign="top">
 
-### 🤖 GestureBot
+## 🧩 DragFlow
 
-<img src="car.png" width="500"/>
+Dynamic **drag-and-drop UI builder** with backend-driven rendering architecture.
 
-AI-powered robot controlled through real-time hand gesture recognition using computer vision and ESP32 communication.
+### ✨ Features
 
-**Tech Stack**
+• Real-time layout customization  
+• Reusable component architecture  
+• Dynamic JSON rendering system  
+• Backend-controlled UI management  
+
+### 🧰 Tech Stack
+
+`React.js`
+`Node.js`
+`MongoDB`
+`Context API`
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="dropUi.png" width="350"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 🤖 GestureBot
+
+AI-powered robot controlled using **real-time hand gesture recognition**.
+
+### ✨ Features
+
+• Computer vision-based gesture detection  
+• Real-time hand tracking using MediaPipe  
+• ESP32-based wireless robot control  
+• Low-latency gesture-to-action pipeline  
+
+### 🧰 Tech Stack
 
 `Python`
 `OpenCV`
@@ -61,15 +103,31 @@ AI-powered robot controlled through real-time hand gesture recognition using com
 
 </td>
 
-<td align="center" width="50%">
+<td width="40%" align="center">
 
-### 📌 CreatePin
+<img src="car.png" width="350"/>
 
-<img src="pin.png" width="500"/>
+</td>
+</tr>
+</table>
 
-Pinterest-inspired visual sharing platform featuring smooth animations, interactive boards, and responsive design.
+---
 
-**Tech Stack**
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 📌 CreatePin
+
+Pinterest-style **visual sharing platform** with modern UI and animations.
+
+### ✨ Features
+
+• Pin creation and board management  
+• Smooth animations using GSAP & Framer Motion  
+• Responsive and interactive frontend  
+
+### 🧰 Tech Stack
 
 `MongoDB`
 `Express.js`
@@ -79,18 +137,33 @@ Pinterest-inspired visual sharing platform featuring smooth animations, interact
 `Framer Motion`
 
 </td>
+
+<td width="40%" align="center">
+
+<img src="pin.png" width="350"/>
+
+</td>
 </tr>
+</table>
 
+---
+
+<table>
 <tr>
-<td align="center" colspan="2">
+<td width="60%" valign="top">
 
-### 🖨 Smart Thermal Printer
+## 🖨 Smart Thermal Printer
 
-<img src="printer.png" width="500"/>
+IoT-based **wireless thermal printing system** using ESP32.
 
-Wireless thermal printing solution powered by ESP32, supporting browser-based print requests and driver-free local network printing.
+### ✨ Features
 
-**Tech Stack**
+• Browser-based mobile print requests  
+• ESP32-hosted lightweight web server  
+• Real-time print forwarding workflow  
+• Driver-free local network printing  
+
+### 🧰 Tech Stack
 
 `ESP32`
 `Embedded C`
@@ -98,9 +171,14 @@ Wireless thermal printing solution powered by ESP32, supporting browser-based pr
 `CSS`
 
 </td>
+
+<td width="40%" align="center">
+
+<img src="printer.png" width="350"/>
+
+</td>
 </tr>
-</table>
-# ⏱ Coding Activity
+</table># ⏱ Coding Activity
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharaddh&theme=tokyonight">
