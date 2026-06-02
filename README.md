@@ -6,18 +6,7 @@
 </p>
 
 Problem-driven engineering student building **scalable backend systems, AI-powered applications, and IoT solutions**.
-
 Passionate about solving **real-world problems using MERN stack, distributed systems, AI/ML, and embedded technologies**.
-
----
-
-## ⚡ Focus Areas
-
-• Full Stack Development  
-• Backend Architecture & APIs  
-• Artificial Intelligence & Computer Vision  
-• IoT & Embedded Systems  
-• Real-time Systems & Optimization  
 
 ---
 
