@@ -154,7 +154,7 @@ Pinterest-style **visual sharing platform** with modern UI and animations.
 
 ## 🖨 Smart Thermal Printer
 
-IoT-based **wireless thermal printing system** using ESP32.
+IoT-based **wireless thermal printing system** using ESP32 and hosting USB.
 
 ### ✨ Features
 
