@@ -67,7 +67,7 @@ Dynamic **drag-and-drop UI builder** with backend-driven rendering architecture.
 
 <td width="40%">
 
-<img src="drag.png" width="300"/>
+<img src="dropUi.png" width="300"/>
 
 </td>
 </tr>
