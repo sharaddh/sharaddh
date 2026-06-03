@@ -5,107 +5,94 @@
 <img src="https://img.shields.io/github/followers/sharaddh?label=Followers&style=social">
 </p>
 
-# Hi, I'm Sharad Rathore 👋
-
-AI/ML undergraduate and software engineer focused on backend systems, recommendation engines, computer vision, and scalable web applications.
-
-Experienced with Node.js, Python, Redis, Elasticsearch, machine learning workflows, and real-world product development through internships and freelance projects.
+Problem-driven engineering student building **scalable backend systems, AI-powered applications, and IoT solutions**.
+Passionate about solving **real-world problems using MERN stack, distributed systems, AI/ML, and embedded technologies**.
 
 ---
+# 🚀 Projects
 
-## 📈 Highlights
-
-- 🎓 B.E. in Artificial Intelligence & Machine Learning (2023–2027)
-- 💼 2 Software Engineering Internships
-- 🚀 Built full-stack, AI-powered, and IoT-based applications
-- 🤖 Experience with Computer Vision, Recommendation Systems, and NLP
-- ⚡ Backend development using Node.js, Redis, Elasticsearch, and MongoDB
-- 🧠 Currently improving Data Structures & Algorithms
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-`Python` `JavaScript` `TypeScript` `Java`
-
-### AI / ML
-
-`TensorFlow`
-`OpenCV`
-`MediaPipe`
-`Computer Vision`
-`NLP`
-`Model Evaluation`
-
-### Backend
-
-`Node.js`
-`Express.js`
-`REST APIs`
-`Redis`
-`Elasticsearch`
-`JWT Authentication`
-
-### Frontend
-
-`React.js`
-`Redux Toolkit`
-`Tailwind CSS`
-
-### Databases
-
-`MongoDB`
-`MySQL`
-
-### Tools
-
-`Docker`
-`Git`
-`GitHub`
-`Postman`
-`Jupyter Notebook`
-
----
-
-# 🚀 Featured Projects
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## 🛒 Starkk.shop
 
-Production-grade e-commerce platform with intelligent product discovery and recommendation workflows.
+Production-level **scalable e-commerce platform** built using MERN stack.
 
-### ✨ Features
+### ✨ Key Highlights
 
-- Apriori-based product recommendation engine
-- Elasticsearch-powered search and filtering
-- Redis caching for optimized performance
-- OTP authentication and payment integration
-- Backend-driven dynamic homepage management
+• Redis caching for optimized backend performance  
+• Elasticsearch-powered product search & filtering  
+• Secure authentication and payment integration  
+• Dynamic homepage rendering via backend configuration  
+• Optimized API architecture and caching workflows  
 
 ### 🧰 Tech Stack
 
-`Node.js`
-`Express.js`
-`React.js`
-`MongoDB`
-`Redis`
-`Elasticsearch`
-`Apriori Algorithm`
+`MongoDB` `Express.js` `React.js`
+`Node.js` `Redis`
+`Elasticsearch` `Razorpay`
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="stark.png" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤖 GestureBot
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Computer vision-powered robot controlled using real-time hand gesture recognition.
+## 🧩 DragFlow
+
+Dynamic **drag-and-drop UI builder** with backend-driven rendering architecture.
 
 ### ✨ Features
 
-- Real-time gesture detection and classification
-- OpenCV + MediaPipe vision pipeline
-- ESP32 wireless robot control
-- Low-latency gesture-to-action workflow
-- Real-time inference system
+• Real-time layout customization  
+• Reusable component architecture  
+• Dynamic JSON rendering system  
+• Backend-controlled UI management  
+
+### 🧰 Tech Stack
+
+`React.js`
+`Node.js`
+`MongoDB`
+`Context API`
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="dropUi.png" width="350"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 🤖 GestureBot
+
+AI-powered robot controlled using **real-time hand gesture recognition**.
+
+### ✨ Features
+
+• Computer vision-based gesture detection  
+• Real-time hand tracking using MediaPipe  
+• ESP32-based wireless robot control  
+• Low-latency gesture-to-action pipeline  
 
 ### 🧰 Tech Stack
 
@@ -113,84 +100,68 @@ Computer vision-powered robot controlled using real-time hand gesture recognitio
 `OpenCV`
 `MediaPipe`
 `ESP32`
-`Computer Vision`
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="car.png" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📧 Spam Email Classifier
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Machine learning-based spam detection system using NLP preprocessing and supervised learning techniques.
+## 📌 CreatePin
 
-### ✨ Features
-
-- Email text preprocessing and cleaning
-- Feature extraction and vectorization
-- Spam classification using machine learning
-- Precision, recall, and accuracy evaluation
-- Confusion matrix analysis
-
-### 🧰 Tech Stack
-
-`Python`
-`Scikit-Learn`
-`NLP`
-`Pandas`
-
----
-
-## 📝 Text Summarizer
-
-Automated text summarization system for extracting meaningful information from long-form content.
+Pinterest-style **visual sharing platform** with modern UI and animations.
 
 ### ✨ Features
 
-- Automatic text summarization
-- Text preprocessing pipeline
-- Information extraction workflow
-- Readability-focused summary generation
-- NLP experimentation and evaluation
+• Pin creation and board management  
+• Smooth animations using GSAP & Framer Motion  
+• Responsive and interactive frontend  
 
 ### 🧰 Tech Stack
 
-`Python`
-`NLP`
-`NLTK`
-
----
-
-## 🧩 DragFlow
-
-Dynamic drag-and-drop UI builder with backend-driven rendering architecture.
-
-### ✨ Features
-
-- Drag-and-drop UI creation
-- JSON-based rendering system
-- Reusable component architecture
-- Backend-controlled UI management
-- Persistent layout storage
-
-### 🧰 Tech Stack
-
-`React.js`
-`Node.js`
 `MongoDB`
-`Zustand`
-`DND Kit`
+`Express.js`
+`Node.js`
+`EJS`
+`GSAP`
+`Framer Motion`
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="pin.png" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## 🖨 Smart Thermal Printer
 
-IoT-based wireless thermal printing system using ESP32.
+IoT-based **wireless thermal printing system** using ESP32 & hosting USB.
 
 ### ✨ Features
 
-- Browser-based printing requests
-- ESP32-hosted print server
-- Driver-free printing workflow
-- Real-time print forwarding
-- Local network communication
+• Browser-based mobile print requests  
+• ESP32-hosted lightweight web server  
+• Real-time print forwarding workflow  
+• Driver-free local network printing  
 
 ### 🧰 Tech Stack
 
@@ -199,19 +170,15 @@ IoT-based wireless thermal printing system using ESP32.
 `HTML`
 `CSS`
 
----
+</td>
 
-## 📚 Currently Learning
+<td width="40%" align="center">
 
-- Data Structures & Algorithms
-- Machine Learning
-- Distributed Systems
-- LLM Applications
-- System Design Fundamentals
+<img src="printer.png" width="350"/>
 
----
-
-## ⏱ Coding Activity
+</td>
+</tr>
+</table># ⏱ Coding Activity
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharaddh&theme=tokyonight">
