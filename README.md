@@ -5,10 +5,12 @@
 <img src="https://img.shields.io/github/followers/sharaddh?label=Followers&style=social">
 </p>
 
-Problem-driven engineering student building **scalable backend systems, AI-powered applications, and IoT solutions**.
-Passionate about solving **real-world problems using MERN stack, distributed systems, AI/ML, and embedded technologies**.
+Problem-driven engineering student building **backend systems, AI-powered applications, and IoT solutions**.
+
+Passionate about solving **real-world problems through scalable software, machine learning, computer vision, and distributed systems**.
 
 ---
+
 # 🚀 Projects
 
 <table>
@@ -17,21 +19,22 @@ Passionate about solving **real-world problems using MERN stack, distributed sys
 
 ## 🛒 Starkk.shop
 
-Production-level **scalable e-commerce platform** built using MERN stack.
+Production-level **e-commerce platform** with intelligent product discovery and recommendation workflows.
 
 ### ✨ Key Highlights
 
-• Redis caching for optimized backend performance  
-• Elasticsearch-powered product search & filtering  
-• Secure authentication and payment integration  
-• Dynamic homepage rendering via backend configuration  
-• Optimized API architecture and caching workflows  
+• Apriori-based recommendation engine for personalized product suggestions
+• Elasticsearch-powered product search, filtering, and ranking
+• Redis caching layer for optimized API performance and reduced database load
+• Dynamic homepage management through backend-driven configuration
+• Secure authentication, order management, and payment processing workflows
 
 ### 🧰 Tech Stack
 
-`MongoDB` `Express.js` `React.js`
-`Node.js` `Redis`
-`Elasticsearch` `Razorpay`
+`Node.js` `Express.js` `React.js`
+`MongoDB` `Redis`
+`Elasticsearch` `Apriori Algorithm`
+`Razorpay` `Twilio`
 
 </td>
 
@@ -55,17 +58,20 @@ Dynamic **drag-and-drop UI builder** with backend-driven rendering architecture.
 
 ### ✨ Features
 
-• Real-time layout customization  
-• Reusable component architecture  
-• Dynamic JSON rendering system  
-• Backend-controlled UI management  
+• Drag-and-drop visual editor for dynamic UI creation
+• JSON-based layout generation and rendering engine
+• Reusable component architecture for rapid page development
+• State persistence and real-time layout updates
+• Backend-controlled configuration and rendering workflows
 
 ### 🧰 Tech Stack
 
 `React.js`
 `Node.js`
+`Express.js`
 `MongoDB`
-`Context API`
+`Zustand`
+`DND Kit`
 
 </td>
 
@@ -89,10 +95,11 @@ AI-powered robot controlled using **real-time hand gesture recognition**.
 
 ### ✨ Features
 
-• Computer vision-based gesture detection  
-• Real-time hand tracking using MediaPipe  
-• ESP32-based wireless robot control  
-• Low-latency gesture-to-action pipeline  
+• Real-time hand gesture detection and classification using computer vision
+• MediaPipe-based hand tracking and landmark extraction pipeline
+• ESP32-powered wireless communication for robot control
+• Low-latency gesture-to-action inference workflow
+• Real-time navigation through vision-based control signals
 
 ### 🧰 Tech Stack
 
@@ -100,6 +107,7 @@ AI-powered robot controlled using **real-time hand gesture recognition**.
 `OpenCV`
 `MediaPipe`
 `ESP32`
+`Computer Vision`
 
 </td>
 
@@ -123,15 +131,17 @@ Pinterest-style **visual sharing platform** with modern UI and animations.
 
 ### ✨ Features
 
-• Pin creation and board management  
-• Smooth animations using GSAP & Framer Motion  
-• Responsive and interactive frontend  
+• Pin creation, organization, and board management workflows
+• User authentication and personalized content management
+• Smooth animations using GSAP and Framer Motion
+• Responsive design optimized across desktop and mobile devices
+• Interactive content discovery experience
 
 ### 🧰 Tech Stack
 
-`MongoDB`
-`Express.js`
 `Node.js`
+`Express.js`
+`MongoDB`
 `EJS`
 `GSAP`
 `Framer Motion`
@@ -154,14 +164,15 @@ Pinterest-style **visual sharing platform** with modern UI and animations.
 
 ## 🖨 Smart Thermal Printer
 
-IoT-based **wireless thermal printing system** using ESP32 & hosting USB.
+IoT-based **wireless thermal printing system** using ESP32 & USB communication.
 
 ### ✨ Features
 
-• Browser-based mobile print requests  
-• ESP32-hosted lightweight web server  
-• Real-time print forwarding workflow  
-• Driver-free local network printing  
+• Browser-based wireless printing over local networks
+• ESP32-hosted lightweight print server architecture
+• Real-time print forwarding to USB thermal printers
+• Driver-free printing workflow for mobile and desktop devices
+• Low-cost IoT solution with local network communication
 
 ### 🧰 Tech Stack
 
@@ -169,6 +180,8 @@ IoT-based **wireless thermal printing system** using ESP32 & hosting USB.
 `Embedded C`
 `HTML`
 `CSS`
+`IoT`
+`Web Server`
 
 </td>
 
@@ -178,7 +191,11 @@ IoT-based **wireless thermal printing system** using ESP32 & hosting USB.
 
 </td>
 </tr>
-</table># ⏱ Coding Activity
+</table>
+
+---
+
+# ⏱ Coding Activity
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharaddh&theme=tokyonight">
