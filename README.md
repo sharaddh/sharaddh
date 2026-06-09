@@ -1,8 +1,7 @@
 ![Header](./i.png)
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=sharaddh&label=Profile%20Views&color=0e75b6&style=flat">
-<img src="https://img.shields.io/github/followers/sharaddh?label=Followers&style=social">
+
 </p>
 
 Problem-driven engineering student building **backend systems, AI-powered applications, and IoT solutions**.
