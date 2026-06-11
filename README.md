@@ -1,46 +1,21 @@
 ![Header](./i.png)
 
-<p align="right">
+I enjoy building scalable backend systems, intelligent applications, and hardware-software solutions that solve real-world problems.
 
-</p>
 
-Problem-driven engineering student building **backend systems, AI-powered applications, and IoT solutions**.
-
-Passionate about solving **real-world problems through scalable software, machine learning, computer vision, and distributed systems**.
-
----
-
-# 🚀 Projects
+# Featured Projects
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-## 🛒 Starkk.shop
+### Starkk.shop
 
-Production-level **e-commerce platform** with intelligent product discovery and recommendation workflows.
-
-### ✨ Key Highlights
-
-• Apriori-based recommendation engine for personalized product suggestions
-• Elasticsearch-powered product search, filtering, and ranking
-• Redis caching layer for optimized API performance and reduced database load
-• Dynamic homepage management through backend-driven configuration
-• Secure authentication, order management, and payment processing workflows
-
-### 🧰 Tech Stack
-
-`Node.js` `Express.js` `React.js`
-`MongoDB` `Redis`
-`Elasticsearch` `Apriori Algorithm`
-`Razorpay` `Twilio`
-
+Production-grade e-commerce platform engineered for performance, intelligent recommendations, and dynamic component rendring.
 </td>
 
 <td width="40%" align="center">
-
 <img src="stark.png" width="350"/>
-
 </td>
 </tr>
 </table>
@@ -51,33 +26,13 @@ Production-level **e-commerce platform** with intelligent product discovery and 
 <tr>
 <td width="60%" valign="top">
 
-## 🧩 DragFlow
+### DragFlow
 
-Dynamic **drag-and-drop UI builder** with backend-driven rendering architecture.
-
-### ✨ Features
-
-• Drag-and-drop visual editor for dynamic UI creation
-• JSON-based layout generation and rendering engine
-• Reusable component architecture for rapid page development
-• State persistence and real-time layout updates
-• Backend-controlled configuration and rendering workflows
-
-### 🧰 Tech Stack
-
-`React.js`
-`Node.js`
-`Express.js`
-`MongoDB`
-`Zustand`
-`DND Kit`
-
+Dynamic drag-and-drop CLI tool for server (side + client)*side builder with JSON-driven rendering and backend-controlled UI architecture.
 </td>
 
 <td width="40%" align="center">
-
 <img src="dropUi.png" width="350"/>
-
 </td>
 </tr>
 </table>
@@ -88,32 +43,13 @@ Dynamic **drag-and-drop UI builder** with backend-driven rendering architecture.
 <tr>
 <td width="60%" valign="top">
 
-## 🤖 GestureBot
+### GestureBot
 
-AI-powered robot controlled using **real-time hand gesture recognition**.
-
-### ✨ Features
-
-• Real-time hand gesture detection and classification using computer vision
-• MediaPipe-based hand tracking and landmark extraction pipeline
-• ESP32-powered wireless communication for robot control
-• Low-latency gesture-to-action inference workflow
-• Real-time navigation through vision-based control signals
-
-### 🧰 Tech Stack
-
-`Python`
-`OpenCV`
-`MediaPipe`
-`ESP32`
-`Computer Vision`
-
+ML-powered robotic system controlled through real-time hand gesture recognition.
 </td>
 
 <td width="40%" align="center">
-
 <img src="car.png" width="350"/>
-
 </td>
 </tr>
 </table>
@@ -124,33 +60,13 @@ AI-powered robot controlled using **real-time hand gesture recognition**.
 <tr>
 <td width="60%" valign="top">
 
-## 📌 CreatePin
+### CreatePin
 
-Pinterest-style **visual sharing platform** with modern UI and animations.
-
-### ✨ Features
-
-• Pin creation, organization, and board management workflows
-• User authentication and personalized content management
-• Smooth animations using GSAP and Framer Motion
-• Responsive design optimized across desktop and mobile devices
-• Interactive content discovery experience
-
-### 🧰 Tech Stack
-
-`Node.js`
-`Express.js`
-`MongoDB`
-`EJS`
-`GSAP`
-`Framer Motion`
-
+Pinterest-inspired social platform featuring content discovery, board management, and modern user interactions.
 </td>
 
 <td width="40%" align="center">
-
 <img src="pin.png" width="350"/>
-
 </td>
 </tr>
 </table>
@@ -161,41 +77,15 @@ Pinterest-style **visual sharing platform** with modern UI and animations.
 <tr>
 <td width="60%" valign="top">
 
-## 🖨 Smart Thermal Printer
+### 🖨 Smart Thermal Printer
 
-IoT-based **wireless thermal printing system** using ESP32 & USB communication.
-
-### ✨ Features
-
-• Browser-based wireless printing over local networks
-• ESP32-hosted lightweight print server architecture
-• Real-time print forwarding to USB thermal printers
-• Driver-free printing workflow for mobile and desktop devices
-• Low-cost IoT solution with local network communication
-
-### 🧰 Tech Stack
-
-`ESP32`
-`Embedded C`
-`HTML`
-`CSS`
-`IoT`
-`Web Server`
-
+IoT-enabled wireless printing solution transforming any thermal printer into a network-accessible device.
 </td>
 
 <td width="40%" align="center">
-
 <img src="printer.png" width="350"/>
-
 </td>
 </tr>
 </table>
 
----
-
-# ⏱ Coding Activity
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharaddh&theme=tokyonight">
-</p>
+> Building products, not just projects.
